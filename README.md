@@ -9,7 +9,7 @@ in this homework i atempted to make a weather app using the openwethermap api, w
 
 
 ## Github Repository URL
-
+https://github.com/JakeDeines/weather-new
 
 ## Deployed Website Image
 ![weather app new](https://user-images.githubusercontent.com/67669417/104150516-e9ecbe00-538e-11eb-9f71-21ea81af901b.PNG)
