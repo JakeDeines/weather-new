@@ -1,7 +1,9 @@
 # weather-new
 
-
 ## Description
+in this homework i atempted to make a weather app using the openwethermap api, when i have more time i will add dynamic html , use local storage make a 5 day forecast and properly retrieve data.
+
+
 
 ## Deployed Website
 
