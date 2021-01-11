@@ -6,7 +6,7 @@ in this homework i atempted to make a weather app using the openwethermap api, w
 
 
 ## Deployed Website
-
+ https://jakedeines.github.io/weather-new/.
 
 ## Github Repository URL
 https://github.com/JakeDeines/weather-new
