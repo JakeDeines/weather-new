@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background:lightgray;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+.card{
+    background: gray;
+    padding: 6em;
+    border-radius: 60px;
+    max-width: 420;
+    margin:1em;
+    color:white;
+}
+
+
+.search{
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+.button {
+    border: none;
+    height: 3em;
+    width: 3em;
+outline: none;
+}
+
+input.search-bar {
+border: none;
+outline: none;
+padding:.5em;
+border-radius: 18px;
+
+}
